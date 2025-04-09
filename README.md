@@ -19,7 +19,9 @@ Atualmente estudando e praticando:
 
 ### 📌 Projetos em destaque
 
-🔹 [**EM DESENVOLVIMENTO**]
+🔹 [**Contador de Tempo de Relacionamento**](https://oligdev.github.io/nosso-dia/)  
+💜 Site com contagem de relacionamento, música, animações e galeria responsiva.
+Interface desenvolvida com HTML, CSS e JS puro, focando em boas práticas e responsividade.
 
 ---
 
