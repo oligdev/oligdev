@@ -26,8 +26,8 @@ Atualmente estudando e praticando:
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=default&count_private=true" />
 </p>
 
 ---
