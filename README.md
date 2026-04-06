@@ -13,27 +13,37 @@ Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo 
 
 ---
 
-### 🚀 Tecnologias & Estatísticas
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=dark&langs_count=6" />
+### 🚀 Tecnologias & Stack
+
+#### 🛠️ Dominando (Frontend)
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-<br/>
+#### 🐍 Aprendendo Agora
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/English-Learning-006400?style=for-the-badge" />
+</div>
 
+---
+
+### 📊 Estatísticas Gerais
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oligdev&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
 
 ### 🛠️ No meu dia a dia
 - **🏢 Empresa:** Instrutor no setor de **Migra Pré Controle / Faturas** na Vivo.
-- **📚 Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- **🌱 Foco:** Python, Interfaces Modernas e Inglês.
-- **🐱 Pets:** Tutor de dois gatos.
+- **📚 Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS) na UNIPÊ.
+- **🌱 Foco:** Python e Interfaces Modernas.
+- **🐱 Família:** Casado e pai de dois gatos.
 
 ---
 
