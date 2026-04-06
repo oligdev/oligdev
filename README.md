@@ -4,10 +4,10 @@ Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo 
 
 ---
 
-### 🎵 Ouvindo agora no Spotify
+### 🎵 Ouvindo agora...
 <div align="left">
-  <a href="https://api.lanyard.rest/v1/users/644307251896516638">
-    <img src="https://api.lanyard.rest/v1/users/644307251896516638?bg=0d1117&text=ffffff&title=Listening%20Now" alt="Spotify Status" />
+  <a href="https://github.com/oligdev">
+    <img src="https://lanyard-profile-readme.vercel.app/api/644307251896516638?theme=dark&bg=0d1117&borderRadius=10px" alt="Spotify Status" />
   </a>
 </div>
 
