@@ -1,33 +1,35 @@
-# Olá! 👋 Eu sou o Vitor
+# Olá! 👋 Eu sou o Olig
 
-Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acessíveis e responsivas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em tecnologias web.
+Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo na Vivo
 
 ---
 
-### 🚀 Tecnologias em foco
-
+### 🎵 Ouvindo agora no Spotify
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://open.spotify.com/user/ewzjbwix0pcb361epvk1xgx42">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=1db954&text_color=ffffff&status_color=1db954" alt="Spotify Now Playing" width="400" />
+  </a>
 </div>
 
 ---
 
-### 📌 Projetos em destaque
+### ♟️ Desafio: Pode me vencer no Xadrez?
+*Clique no tabuleiro para ver minhas partidas ou me desafiar!*
 
-* **❤️ Contador de Tempo de Relacionamento**: Interface desenvolvida com HTML, CSS e JS puro, com contagem de tempo real, música, animações e galeria responsiva.
-* **🚧 Em desenvolvimento**: Novos projetos de automação e interfaces complexas em React.
+<div align="center">
+  <a href="https://lichess.org/@/oligzin">
+    <img src="https://chess-board-readme.vercel.app/api?user=oligdev&theme=dracula" alt="Tabuleiro de Xadrez" />
+  </a>
+  <p><i>Rating Atual: 700-800 | Focado em táticas de abertura!</i></p>
+</div>
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 🚀 Tecnologias & Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=dracula&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=dracula&langs_count=6" />
 </div>
 
 <br/>
@@ -38,8 +40,21 @@ Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acess
 
 ---
 
-### 📫 Vamos nos conectar?
+### 🛠️ No meu dia a dia
+- **🏢 Empresa:** Instrutor no setor de **Migra Pré Controle / Faturas** na Vivo.
+- **📚 Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- **🌱 Foco:** Python, Interfaces Modernas e Inglês.
+- **🐱 Vida Pessoal:** Tutor de dois gatos e entusiasta de Xadrez.
 
+---
+
+### 📌 Projetos em Destaque
+* **❤️ Contador de Tempo de Relacionamento**: Interface responsiva com animações e música (JS Puro).
+* **🚧 Em desenvolvimento**: Automações em Python para análise de dados e faturas.
+
+---
+
+### 📫 Vamos nos conectar?
 <div align="left">
   <a href="https://linkedin.com/in/oligdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,6 +64,6 @@ Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acess
   </a>
 </div>
 
-<br/>
+<br />
 
-> ✨ Em constante evolução. Obrigado por visitar meu perfil!
+> ✨ "O código é a poesia da lógica." - Em constante evolução.
