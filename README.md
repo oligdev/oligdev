@@ -30,17 +30,11 @@ Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo 
   <img src="https://img.shields.io/badge/English-Learning-006400?style=for-the-badge" />
 </div>
 
----
-
-### 📊 Estatísticas Gerais
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
 
 ---
 
 ### 🛠️ No meu dia a dia
-- **🏢 Empresa:** Instrutor no setor de **Migra Pré Controle / Faturas** na Vivo.
+- **🏢 Empresa:** Instrutor no setor de **Migra Pré/Controle** na Vivo.
 - **📚 Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS) na UNIPÊ.
 - **🌱 Foco:** Python e Interfaces Modernas.
 - **🐱 Família:** Casado e pai de dois gatos.
