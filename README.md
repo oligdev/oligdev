@@ -13,19 +13,11 @@ Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo 
 
 ---
 
-### ♟️ Desafio: Pode me vencer no Xadrez?
-<div align="center">
-  <a href="https://www.chess.com/member/oligdev">
-    <img src="https://chess-stats-api.herokuapp.com/api/user/oligdev/rating/rapid" alt="Chess Rating" />
-  </a>
-  <p><i>Rating Atual: 700-800 | Focado em táticas de abertura!</i></p>
-</div>
-
----
-
 ### 🚀 Tecnologias & Estatísticas
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=dark&langs_count=6" />
 </div>
 
