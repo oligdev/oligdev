@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Olig
+# Olá! 👋 Eu sou o Vitor
 
 Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acessíveis e responsivas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em tecnologias web.
 
@@ -26,14 +26,14 @@ Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acess
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=dracula&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oligdev&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
@@ -41,10 +41,10 @@ Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acess
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/oligdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:beatsolig@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
