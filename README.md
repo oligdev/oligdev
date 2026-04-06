@@ -6,7 +6,7 @@ Desenvolvedor Frontend em formação | Estudante de ADS | Instrutor Corporativo 
 
 ### 🎵 Ouvindo agora no Spotify
 <div align="left">
-  <a href="https://github.com/oligdev">
+  <a href="https://api.lanyard.rest/v1/users/644307251896516638">
     <img src="https://api.lanyard.rest/v1/users/644307251896516638?bg=0d1117&text=ffffff&title=Listening%20Now" alt="Spotify Status" />
   </a>
 </div>
