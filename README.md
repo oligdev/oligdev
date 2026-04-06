@@ -1,47 +1,54 @@
-<h1 align="center">Olá! 👋 Sou Olig</h1>
+# Olá! 👋 Eu sou o Olig
 
-<p align="center">
-Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acessíveis e responsivas.  
-Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e aprofundando conhecimentos em tecnologias web.
-</p>
+Desenvolvedor Frontend em formação, focado em criar interfaces modernas, acessíveis e responsivas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em tecnologias web.
 
 ---
 
 ### 🚀 Tecnologias em foco
 
-Atualmente estudando e praticando:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 ---
 
 ### 📌 Projetos em destaque
 
-🔹 [**Contador de Tempo de Relacionamento**](https://oligdev.github.io/nosso-dia/)  
-    Interface desenvolvida com HTML, CSS e JS puro, com contagem de relacionamento, música, animações e galeria responsiva.
-
-🔹 [**EM DESENVOLVIMENTO**] 
+* **❤️ Contador de Tempo de Relacionamento**: Interface desenvolvida com HTML, CSS e JS puro, com contagem de tempo real, música, animações e galeria responsiva.
+* **🚧 Em desenvolvimento**: Novos projetos de automação e interfaces complexas em React.
 
 ---
 
-### 📈 Estatísticas
+### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligdev&layout=compact&theme=default" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oligdev&show_icons=true&theme=default&count_private=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📫 Contato
+### 📫 Vamos nos conectar?
 
-Você pode me encontrar por aqui:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-oliveira-0a5718229)
+<div align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-<p align="center">
-✨ Em constante evolução. Obrigado por visitar meu perfil!
-</p>
+> ✨ Em constante evolução. Obrigado por visitar meu perfil!
